@@ -23,4 +23,4 @@ About me:
 
 - 🌱 Passionate about learning new skills
 - 👩🏻‍💻 Currently working as a Software Development Intern
-- 🧐 Actively seeking 2022 Summer Intern Opportunities in the U.S.
+- 🧐 Actively seeking 2022 Summer Intern Opportunities
