@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianaqyl&show_icons=true&locale=en&layout=compact" alt="adrianaqyl" height="180"/>
+
+I'm an incoming MS student in the CS field.  Welcome to my GitHub!  <img src="https://emoji.slack-edge.com/TKC7SJ03D/blob-excited/c421dde9164a6fe0.gif" width=30>
+
+About me:
+
+- 🌱 Passionate about learning new skills
+- 👩🏻‍💻 Currently working as a Software Development Intern
+- 🧐 Actively seeking 2022 Summer Internship Opportunities in the U.S.
