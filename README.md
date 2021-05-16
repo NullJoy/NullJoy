@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianaqyl&show_icons=true&locale=en&layout=compact" alt="adrianaqyl" height="180"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianaqyl&show_icons=true&locale=en&layout=compact" alt="adrianaqyl"/>
 
 I'm an incoming MS student in CS. Welcome to my GitHub!  <img src="https://emoji.slack-edge.com/TKC7SJ03D/blob-excited/c421dde9164a6fe0.gif" width=30>
 
