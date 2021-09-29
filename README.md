@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianaqyl&show_icons=true&locale=en&layout=compact" alt="adrianaqyl"/>
 
-I'm an incoming MS student in CS. Welcome to my GitHub!  <img src="https://emoji.slack-edge.com/TKC7SJ03D/blob-excited/c421dde9164a6fe0.gif" width=24>
+I'm a current MS student in CS. Welcome to my GitHub!  <img src="https://emoji.slack-edge.com/TKC7SJ03D/blob-excited/c421dde9164a6fe0.gif" width=24>
 
 About me:
 
 - 🌱 Passionate about learning new skills
-- 👩🏻‍💻 Currently working as a Software Development Intern
-- 🧐 Actively seeking 2022 Summer Intern Opportunities
+- 👩🏻‍💻 Previously worked as a Software Development Intern
+- 🧐 Actively seeking 2022 Summer SDE Intern Opportunities
