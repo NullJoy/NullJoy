@@ -23,4 +23,4 @@ About me:
 
 - 🌱 Passionate about learning new skills
 - 👩🏻‍💻 Previously worked as a Software Development Intern
-- 🧐 Incoming 2022 Summer SDE Intern
+- 🧐 Looking for new grad opportunities in the US
